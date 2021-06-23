@@ -5,6 +5,8 @@
 
 This is a project template for [Svelte](https://svelte.dev) apps. 
 
+PRs welcome!
+
 ## SvelteKit
 
 If you are looking for a SvelteKit example, please use https://github.com/gitpod-io/sveltekit-example.
